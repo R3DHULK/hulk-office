@@ -26,6 +26,6 @@
 
 # 
 
-<h1><b>This Repo Just Contains Some Of My Ideas Together. In Future I'll Add More Tools and Softwares But All I Need Is Your Help 😊😊😊<b></h1>
+<h1><b>This Repo Just Contains Some Of My Ideas Together. In Future I'll Add More Tools and Softwares But All I Need Is Your Support 😊😊😊<b></h1>
 <a href="https://www.buymeacoffee.com/r3dhulk"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/r3dhulk" /></a><br><br>
 
